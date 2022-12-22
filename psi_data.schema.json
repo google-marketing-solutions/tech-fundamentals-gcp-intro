@@ -1,0 +1,77 @@
+[
+  {
+    "mode": "REQUIRED",
+    "name": "date",
+    "type": "DATETIME"
+  },
+  {
+    "mode": "REQUIRED",
+    "name": "url",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "speed_index",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "first_contentful_paint",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "first_meaningful_paint",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "server_response_time",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "network_server_latency",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "cumulative_layout_shift",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "interactive",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "largest_contentful_paint",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "total_blocking_time",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "first_cpu_idle",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "max_potential_fid",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "total_byte_weight",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "estimated_input_latency",
+    "type": "FLOAT"
+  }
+]

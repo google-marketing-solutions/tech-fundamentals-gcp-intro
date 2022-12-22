@@ -1,0 +1,4 @@
+Flask
+google-cloud-bigquery
+google-cloud-logging
+google-api-python-client
